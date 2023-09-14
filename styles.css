@@ -1,0 +1,18 @@
+body{
+    Background-color:bisque;
+}
+//
+h1,h2,h3,h4{
+    color:darkviolet;
+}
+
+#hi{
+    color:blue;
+}
+span{
+    color:blueviolet;
+}
+#lol{
+    color:blue;
+    font-size:20px;
+}
